@@ -1,0 +1,6 @@
+- finish the element above the columns
+- finish upper cornice and make corner cornices
+- finish side doors
+- make decorative elements
+- make fence (asset or own?)
+- make street (asset or own?)
