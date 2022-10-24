@@ -1,4 +1,0 @@
-- płot samodzielnie czy z assetu (samo high poly a gra)
-- kolorystyka, tekstury, zaznaczanie kolorem czegoś
-- grunt, trawa
-- maszty na górze
