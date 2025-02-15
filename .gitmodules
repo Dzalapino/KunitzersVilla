@@ -1,0 +1,3 @@
+[submodule "kunitzersvilla"]
+	path = kunitzersvilla
+	url = https://gitlab.com/jpodkomorka19/kunitzersvilla.git
